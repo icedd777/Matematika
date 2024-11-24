@@ -5,7 +5,7 @@
 
 /**
  *
- * @author angga
+ * @author Risat
  */
 public class MatematikaCanggih extends Matematika {
 
