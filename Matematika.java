@@ -5,7 +5,7 @@
 
 /**
  *
- * @author angga
+ * @author Risat
  */
 public class Matematika {
     private int hasil; // Menggunakan modifier private untuk enkapsulasi
