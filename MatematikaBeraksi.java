@@ -5,17 +5,17 @@
 
 /**
  *
- * @author angga
+ * @author Risat
  */
 
 public class MatematikaBeraksi {
     public static void main(String[] args) {
         Matematika mtk = new Matematika();
 
-        System.out.println("Tambah: " + mtk.tambah(30, 20));
-        System.out.println("Kurang: " + mtk.kurang(65, 25));
-        System.out.println("Kali: " + mtk.kali(78, 31));
-        System.out.println("Bagi: " + mtk.bagi(120, 20));
+        System.out.println("Tambah: " + mtk.tambah(20, 01));
+        System.out.println("Kurang: " + mtk.kurang(46, 93));
+        System.out.println("Kali: " + mtk.kali(30, 28));
+        System.out.println("Bagi: " + mtk.bagi(172, 60));
     }
 }
 
